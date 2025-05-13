@@ -6,11 +6,4 @@ This project uses **YOLOv5** with transfer learning on the **Stanford Cars Datas
 
 ## 🚀 Project Structure
 
-project/
-├── data/
-│ └── images/ ← Place all car images here (train/test)
-├── models/ ← YOLOv5 models and checkpoints
-├── notebooks/ ← Jupyter notebooks for training and inference
-├── utils/ ← Helper functions and scripts
-├── requirements.txt
-└── README.md
+<pre> ## 🚀 Project Structure ``` project/ ├── data/ │ └── images/ ← Place all car images here (train/test) ├── models/ ← YOLOv5 models and checkpoints ├── notebooks/ ← Jupyter notebooks for training and inference ├── utils/ ← Helper functions and scripts ├── requirements.txt └── README.md ``` </pre>
