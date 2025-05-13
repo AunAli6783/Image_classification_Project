@@ -1,0 +1,4 @@
+go to the yolov5 directory and run this command adjust it according to your pc path 
+
+
+python detect.py --weights "runs/train/model_v8/weights/best.pt" --img 640 --conf 0.1 --source "C:/Users/buzz 2/OneDrive/Desktop/AI_Project/test_images"

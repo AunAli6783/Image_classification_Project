@@ -1,0 +1,28 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore dataset images and labels
+dataset/images/
+dataset/labels/
+dataset/*.cache
+
+# Ignore test images (optional)
+test_images/
+
+# Ignore YOLOv5 training outputs
+yolov5/runs/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs or other temp files
+*.log
+*.tmp
+.DS_Store
+
+
